@@ -1,4 +1,4 @@
-# Vaga NLP Machine Learning Engineer - Prova Técnica
+# Vaga NLP Machine Learning Engineer / Data Scientist - Prova Técnica
 
 ## Problema proposto
 
