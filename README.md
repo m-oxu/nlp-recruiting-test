@@ -1,4 +1,4 @@
-# Vaga NLP Machine Learning Engineer / Data Scientist - Prova Técnica
+# Vaga Data Scientist - Prova Técnica
 
 ## Problema proposto
 
@@ -31,4 +31,4 @@
 - machine learning
 - programação
 - design de sistema
-- aplicação ao business
+- business / aplicação ao negócio
