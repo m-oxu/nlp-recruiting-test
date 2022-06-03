@@ -22,10 +22,10 @@
 
 **Avaliação do Notebook**: Serão utilizados os seguintes critérios para avaliação da solução:
 - estruturação do experimento
-- organização do código
-- exploração e análise dos dados
+- exploração e análise dos dados e seus impactos nas abordagens utilizadas
 - solução utilizada
 - resultado obtido
+- organização do código
 
 **Entrevista**: Após o envio da solução do problema proposto, iremos agendar uma entrevista para discutir a solução adotada, onde iremos fazer perguntas mais aprofundadas sobre um ou mais dos tópicos abaixo:
 - machine learning
