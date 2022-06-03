@@ -10,8 +10,8 @@
 
 **Entregáveis**: link para repositório no Github com ao menos os seguintes arquivos:
 - README.md
-- notebook da solução
-- source-code
+- notebook da solução (`resolução_prova_tecnica.ipynb`)
+- source-code (`./src`)
 - requirements.txt
 
 **Dados**: train_df.csv
